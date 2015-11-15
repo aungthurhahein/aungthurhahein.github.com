@@ -15,5 +15,4 @@ permalink: /now/
 *	Stick to run 10km per week
 *	Spend spare time playing random card games and participating in <a href="quora.com">Quora</a> conversations
 *	Maintaining this blog 
-*	Managin to declutter life and to improve productivity 
-*
+*	Managing to declutter life and to improve productivity 
