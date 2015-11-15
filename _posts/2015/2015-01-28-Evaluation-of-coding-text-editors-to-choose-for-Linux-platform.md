@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evaluation of coding text editors to choose for Linux platform"
+title: "Evaluation of text editors for Linux platform"
 date: 2015-01-28
 backgrounds:
     - https://images.unsplash.com/photo-1432821596592-e2c18b78144f?fit=crop&fm=jpg

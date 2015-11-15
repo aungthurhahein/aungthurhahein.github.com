@@ -5,7 +5,7 @@ backgrounds:
     - https://images.unsplash.com/photo-1444837881208-4d46d5c1f127?fit=crop&fm=jpg
     - https://images.unsplash.com/photo-1438109519352-a52c41243c1a?fit=crop&fm=jpg
     - https://images.unsplash.com/photo-1440688807730-73e4e2169fb8?fit=crop&fm=jpg
-thumb: https://images.unsplash.com/photo-1436397543931-01c4a5162bdb?ixlib=rb-0.3.5&q=80&fm=jpg	
+thumb: http://www.thecoolist.com/wp-content/uploads/2012/05/minimalism-by-hengki-koentjoro.JPG-12.jpg
 date: 2014-01-25
 tags: Minimalism
 category: Notes

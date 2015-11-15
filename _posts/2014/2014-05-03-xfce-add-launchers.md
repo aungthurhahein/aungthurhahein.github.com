@@ -1,5 +1,5 @@
 ---
-title: how to add new custom application launcher at xfce environment
+title: how to add XFCE custom application launcher
 layout: post
 backgrounds:
     - http://data.hdwallpapers.im/big_xfce.jpg

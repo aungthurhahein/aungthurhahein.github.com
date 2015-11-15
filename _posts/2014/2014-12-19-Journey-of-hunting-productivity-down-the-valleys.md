@@ -1,5 +1,5 @@
 ---
-title: 'Journey of hunting productivity down the valleys'
+title: 'Journey of hunting productivity down the valley'
 layout: post
 backgrounds:
     - https://images.unsplash.com/photo-1423439793616-f2aa4356b37e?fit=crop&fm=jpg

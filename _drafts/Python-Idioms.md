@@ -4,7 +4,6 @@ title: "Python Idioms"
 backgrounds:
     - http://steam4kids.net/wp-content/uploads/2015/05/python_logo.jpg
 thumb: https://images.unsplash.com/13/unsplash_523ae1f5502d6_1.JPG
-date: 2015-06-28
 tags: Programming Python
 category: Tech
 ---
