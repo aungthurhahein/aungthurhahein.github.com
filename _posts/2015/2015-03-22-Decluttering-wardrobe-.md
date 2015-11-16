@@ -7,7 +7,7 @@ backgrounds:
     - https://images.unsplash.com/photo-1441126270775-739547c8680c?fit=crop&fm=jpg
     - https://images.unsplash.com/photo-1440558899941-2b58b4b0e6ad?fit=crop&fm=jpg
     - https://images.unsplash.com/photo-1444837881208-4d46d5c1f127?fit=crop&fm=jpg
-thumb: http://www.photos-public-domain.com/wp-content/uploads/2011/09/solitude.jpg
+thumb: http://declutterme.london/perch/resources/new-life-breakup-relationship-declutter-1-w1200.gif
 category: Notes
 ---
 

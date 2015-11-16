@@ -4,7 +4,7 @@ title: "Language with digital writing standarization issue"
 date: 2015-04-21
 backgrounds:
     - https://images.unsplash.com/photo-1416339134316-0e91dc9ded92?fit=crop&fm=jpg
-thumb: https://images.unsplash.com/reserve/LJIZlzHgQ7WPSh5KVTCB_Typewriter.jpg
+thumb: http://www.zdnet.com/i/story/63/03/000413/2012-02-09manual-typewriter-0209stock.jpg
 tags: Personal System
 category: Tech
 ---
