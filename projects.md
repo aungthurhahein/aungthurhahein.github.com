@@ -6,7 +6,7 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. After finishing the manuscript for my Master thesis, I believe I can execute my list of ideas into products.
 
-### <a href="aungthurhahein.github.com/typoem" target="_blank">Typoem</a>
+### <a href="http://aungthurhahein.github.io/typoem" target="_blank">Typoem</a>
 
 This is a Google font pairing typography project using Burmese poems as content.
 
