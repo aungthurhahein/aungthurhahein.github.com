@@ -6,6 +6,10 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. After finishing the manuscript for my Master thesis, I believe I can execute my list of ideas into products.
 
+### <a href="http://st3-atom.github.io/" target="_blank">ST3&Atom</a>
+
+A project to gather the best packages for Sublime Text 3 and Atom text editors from the coding community
+
 ### <a href="http://aungthurhahein.github.io/typoem" target="_blank">Typoem</a>
 
 This is a Google font pairing typography project using Burmese poems as content.
