@@ -9,9 +9,7 @@ categories: Tech
 tags: Linux
 ---
 
-I've been using bash as primay shell since I started using linux. It's ok. Don't bother looking for a better solution until I ran into this blog post about <a href="http://code.joejag.com/2014/why-zsh.html">My favourite zsh features</a>. The following youtube video is form the same author of the blog post. TLDR people? Watch this one. 
-
-{% youtube "https://www.youtube.com/watch?v=1S3MUVIAieE" %}
+I've been using bash as primay shell since I started using linux. It's ok. Don't bother looking for a better solution until I ran into this blog post about <a href="http://code.joejag.com/2014/why-zsh.html">My favourite zsh features</a>. The following youtube video is form the same author of the blog post. TLDR people? Watch this <a href="https://www.youtube.com/watch?v=1S3MUVIAieE">Getting Started with ZSH (and oh my zshell) on Ubuntu</a>
 
 It seems pretty good for interactive tasks and that auto completion feature is a dope. 
 So,I decided to give a try.
@@ -49,9 +47,7 @@ if you encounter an authentication problem, it can be solved by downloading the 
 #### Features
 
 So far, it's quite similar to bash with additional features. It's quite easy to adapt for bash users.
-For coders, I think zsh is a better option than bash. check out this LevelTutsPlus youtube video about how themes and plugins can help developers to aid at cmd tasks.
-
-{% youtube "https://www.youtube.com/watch?v=csJV1exZAjA" %}
+For coders, I think zsh is a better option than bash. check out this <a href="https://www.youtube.com/watch?v=csJV1exZAjA">LevelTutsPlus</a> youtube clip about how themes and plugins can help developers to aid at cmd tasks.
 
 From my a week long experince with zsh, The following points can be made:
 
