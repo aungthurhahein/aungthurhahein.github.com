@@ -6,8 +6,8 @@ permalink: /about/
 
 ### Quick Bio of me
 A Burmese coder, studying & working at BKK,TH.\\
-I like to code,read, listen to music and jog.\\
-A quite solid logical mind, <a href="http://www.16personalities.com/istj-personality" target="_blank">ISTJ</a>. Stick to plan & process. Love facts & information.\\
+I like to code, read, listen to music and jog.\\
+A solid logical mind, <a href="http://www.16personalities.com/istj-personality" target="_blank">ISTJ</a>. Stick to plan & process. Love facts & information.\\
 Have XP with Bioinformatics, Web Development,and Digital Forensic.\\
 Currently, writing a journal paper titled "Forensic Analysis of Chrome Incognito Mode".\\
 Believe Minimalism and trying to declutter life and things around me
