@@ -42,3 +42,4 @@ gems:
     - jekyll-sitemap
     - jekyll-paginate
     - jekyll-image_resizer
+    - jekyll-youtube
