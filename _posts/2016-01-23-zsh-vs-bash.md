@@ -61,3 +61,7 @@ From my a week long experience with zsh, The following points can be made:
 So, try it and I kinda believe that you will fall in love with it in no time.
 Cheers!
 
+#### More reading:
+
+- <a href="http://hyperpolyglot.org/unix-shells">Unix Shells </a>
+- <a href"http://wikimatze.de/better-zsh-with-prezto">Better zsh with Prezto</a>
