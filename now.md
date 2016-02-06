@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 ---
 
-# What I'm doing now (January 2016)
+# What I'm doing now ({{ site.time | date: '%m'}} 2016)
 
 *   Writing a journal paper titled "Forensic Analysis: Private Browsing mode of Google Chrome"
 *   Working on a <a href="http://st3-atom.github.io/" target="_blank">project</a> about hand-picked collection of packages for ST3 and Atom text editors
