@@ -6,6 +6,9 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. 
 
+### [Porfolio/Splash page](http://aungthurhahein.github.io/me/)
+A minimal personal splash page with pagepiling.js.
+
 ### <a href="http://st3-atom.github.io/" target="_blank">ST3&Atom</a>
 
 A project to gather the best packages for Sublime Text 3 and Atom text editors from the coding community
