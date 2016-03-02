@@ -6,6 +6,9 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. 
 
+### [Scrap Miniature](https://github.com/aungthurhahein/scrap_miniature)
+Scrap and download daily images from [Miniature-calendar](http://miniature-calendar.com/)
+
 ### [Porfolio/Splash page](http://aungthurhahein.github.io/me/)
 A minimal personal splash page with pagepiling.js.
 

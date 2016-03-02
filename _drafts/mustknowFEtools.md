@@ -15,18 +15,18 @@ As for web workers, changes of Technology is dynamic and at the same time, we ne
 The tools & technology can be categorized by its purpose in the development process as the following:
 
 1. Frameworks
-12. Editors/IDE
-6. Version Control Systems
-3. Preprocessor
-4. Package Managers
-5. Task Runners
-11. Testing Tools
-9. Development Methodology & Architecture
-2. Linters
-7. Language Reference Tools
-8. Learning and training Resources 
-13. Typography Tools
-14. Productivity Tools
+2. Editors/IDE
+3. Version Control Systems
+4. Preprocessor
+5. Package Managers
+6. Task Runners
+7. Testing Tools
+8. Development Methodology & Architecture
+9. Linters
+10. Language Reference Tools
+11. Learning and training Resources 
+12. Typography Tools
+13. Productivity Tools
 
 ### Frameworks
 This is the first thing when we need to make a decision every time a new project initiates. There are tons of CSS and Javascript frameworks but the ones in the front row are Bootstrap, Foundation, Modernizr, Jquery, Angular, Backbone, Meteor, Ember and React. As for front-end developer, it's essential to familiar with Javascript with Jquery and at least 1 CSS framework.
@@ -36,11 +36,11 @@ How to learn:
 ### Editors/IDE
 What kind of text editors/IDEs front-end develoeprs prefer? 3 Things I think we like to see in editors/IDEs. **Fast, Plugins and Beautiful**. There are not lots of options available and pick one that get you;
 
-    Sublime Text 3 : Don't need much introduction. The most beloved text editor. (Free-ish)
-    ATOM: Github hackable editor. (Free)
-    WebStrom: a web platform editor from Jetbrains. (Paid)
-    Brackets: Abode text editor with integrated (Free)
-    LightTable: Text editors with inline evaluation and other cool features (Free)
+* Sublime Text 3 : Don't need much introduction. The most beloved text editor. (Free-ish)
+* ATOM: Github hackable editor. (Free)
+* WebStrom: a web platform editor from Jetbrains. (Paid)
+* Brackets: Abode text editor with integrated (Free)
+* LightTable: Text editors with inline evaluation and other cool features (Free)
 
 It's impossible to say which one is the best since it's more of personal perference. For me, I use ST3 manily and LightTable for some interactive coding with Python and Julia.
 
@@ -49,5 +49,7 @@ It's impossible to say which one is the best since it's more of personal perfere
 
 
 
-    Reference: <a href="http://fredsarmento.me/frontend-tools/" target="_blank">Frontend Tools</a>
-               <a href="https://gist.github.com/dypsilon/5819504">Badass list of Frontend Development Tools</a>
+### Reference: 
+
+* <a href="http://fredsarmento.me/frontend-tools/" target="_blank">Frontend Tools</a>
+* <a href="https://gist.github.com/dypsilon/5819504">Badass list of Frontend Development Tools</a>
