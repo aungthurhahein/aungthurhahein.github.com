@@ -26,7 +26,7 @@ Details of installing *zsh* can be seen at <a href="https://github.com/robbyruss
 To replace the default shell to zsh, there are several ways to do it. However, I recommend installing *oh-my-zsh* and switching shell is done automatically.
 
 ### Oh-my-zsh
-<a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> is an extension of zsh shell, which provides <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Themes">themes</a> and <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins">plugins</a>. 
+<a href="https://github.com/robbyrussell/oh-my-zsh">oh-my-zsh</a> is an extension of zsh shell, which provides <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/Themes">themes</a> and <a href="https://github.com/robbyrussell/oh-my-zsh/wiki/plug-ins">plug-ins</a>. 
 
 #### Installation 
  It can be installed using wget or curl by
@@ -47,15 +47,15 @@ If you encounter an authentication problem, it can be solved by downloading the 
 #### Features
 
 So far, it's quite similar to bash with additional features. It's quite easy to adapt for bash users.
-For coders, I think zsh is a better option than bash. Check out this <a href="https://www.youtube.com/watch?v=csJV1exZAjA">LevelTutsPlus</a> youtube clip about how themes and plugins can help developers to aid at cmd tasks.
+For coders, I think zsh is a better option than bash. Check out this <a href="https://www.youtube.com/watch?v=csJV1exZAjA">LevelTutsPlus</a> youtube clip about how themes and plug-ins can help developers to aid at cmd tasks.
 
 From my a week long experience with zsh, The following points can be made:
 
 - It's fancy and looks better than bash.
-- Plugins are helpful but too much plugins make the shell slow down.
-- Developer related plugins are really intuitive and working nicely.
+- plug-ins are helpful but too much plug-ins make the shell slow down.
+- Developer related plug-ins are really intuitive and working nicely.
 - Error prompting and giving feedbacks and predicted actions make it friendly.
-- Opening files and some actions are slightly slower than bash. It might be the drawbacks of oh-my-zsh plugins.
+- Opening files and some actions are slightly slower than bash. It might be the drawbacks of oh-my-zsh plug-ins.
 - I am still exploring the usage of zsh features from this <a href="https://www-s.acm.illinois.edu/workshops/zsh/why.html">Zsh features</a>.
 
 So, try it and I kinda believe that you will fall in love with it in no time.

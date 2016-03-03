@@ -9,7 +9,7 @@ categories: Tech
 tags: Browser
 ---
 
-Google is planning to facelift Google Chrome ver. 50 with <a href="https://www.google.com/design/spec/material-design/introduction.html">Material Design</a> according to
+Google is planning to face-lift Google Chrome ver. 50 with <a href="https://www.google.com/design/spec/material-design/introduction.html">Material Design</a> according to
 <a href="http://www.webdesignerdepot.com/2016/02/google-redesigns-chrome-browser-for-material-design/">Web Design Depot</a>.
 
 Currently, Chrome is version 48 on my Debian system. I found a way to enable Material Design to see an early look by the following way:
