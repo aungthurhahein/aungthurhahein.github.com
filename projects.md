@@ -20,8 +20,8 @@ A project to gather the best packages for Sublime Text 3 and Atom text editors f
 
 This is a Google font pairing typography project using Burmese poems as content.
 
-### <a href="nay-phyo.com">Nay-Phyo</a>
-A single page parallax e-invitation site made as a present for my friends' weeding.
+### <a href="http://nay-phyo.com" target="_blank">Nay-Phyo</a>
+A single page parallax e-invitation site made as a present for my friends' wedding.
 
 ### <a href="http://aungthurhahein.github.io/coderplaylist/" target="_blank">CoderPlaylist</a>
 A playlist collection created by fellow coders from various streaming platform.
@@ -38,14 +38,14 @@ A really good set of Python exercises to deal with text
 ### <a href="https://github.com/aungthurhahein/Simple-Terminal-RSS-reader" target="_blank">Simple-Terminal-RSS-reader</a>
 Simple Terminal reader written with Python for a quick sneak of latest articles from developer's sites
 
-### <a href="https://github.com/qrpike/Web-Font-Load" >Web Font Load by qrpike</a>
+### <a href="https://github.com/qrpike/Web-Font-Load" target="_blank">Web Font Load by qrpike</a>
 Install all google fonts on your local machines by qrpike and contributed a installation script for Linux Debian systems
 
 ### <a href="https://gibbon.co/atrx" target="_blank">Gibbon Playlists</a>
 Several learning flows of topics I love to curate
 
-### <a href="https://github.com/watson/awesome-computer-history">Awesome Computer History by watson</a>
+### <a href="https://github.com/watson/awesome-computer-history" target="_blank">Awesome Computer History by watson</a>
 Input lists of my documentary list to this nice collection of CS Documentary by watson
 
-### <a href="https://github.com/aungthurhahein/page_brute">Page Brute</a>
-Forked Repo of page_brute by matonis and contributed python scripts for addiontal analysis of pagefile.sys Yara scan outputs
+### <a href="https://github.com/aungthurhahein/page_brute" target="_blank">Page Brute</a>
+Forked Repository of page_brute by matonis and contributed python scripts for additional analysis of pagefile.sys Yara scan outputs
