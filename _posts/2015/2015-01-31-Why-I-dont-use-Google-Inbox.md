@@ -8,22 +8,22 @@ date: 2015-01-31
 tags: Personal Opinion
 category: Tech
 ---
-It've been a while I forcing myself to use Google Inbox. There might be a good reason why Google is forcing you to use its new flagship Material design. Material Design looks good and intuitive but using Google Inbox is not smooth and functional like GMail. Let's me enlight you why it's that. For your judgements, all the opinions come from Web apps of GMail and Inbox.In other words, I don't consider mobile GMail and Inbox apps.
+It've been a while I forcing myself to use Google Inbox. There might be a good reason why Google is forcing you to use its new flagship Material design. Material Design looks good and intuitive but using Google Inbox is not smooth and functional like GMail. Let's me enlighten you why it's that. For your judgments, all the opinions come from Web apps of GMail and Inbox.In other words, I don't consider mobile GMail and Inbox apps.
 
 ### Settings
 
-Like other email service providers, GMail provides you with advanced services like filtering, email default text setting,default signature setting and other advanced features for various level of users. Look at settings of Inbox, two things you can do literally. Turning on/off auto-bundled categories and turning on/off keyboard shortcuts.For veteran GMail users, all the settings they implemented for years just gone. It turns me off. Now, I just recognize all my email replies from Inbox without any signaures. 
+Like other email service providers, GMail provides you with advanced services like filtering, email default text setting,default signature setting and other advanced features for various level of users. Look at settings of Inbox, two things you can do literally. Turning on/off auto-bundled categories and turning on/off keyboard shortcuts.For veteran GMail users, all the settings they implemented for years just gone. It turns me off. Now, I just recognize all my email replies from Inbox without any signatures. 
 
 In my option, Google should create a migration of user settings from GMail to Inbox somehow. 
 
 ### Email Viewing
-Tradional email inbox is kind of static. An email comes in,it pops up on the inbox list. You replies the email and it creates mail-thread. I really love GMail auto categorization of emails, which Google introduces a while back. It groups email by categories and show in tradional timely manner.
-At Inbox, the inbox of Inbox (nested inboxes..lol!) is dynamic in nature. The categories becomes nested. Inbox orders email by timeline and followed by auto-bundled categories,which is also ordered by timeline. The unbundled emails shows as individuals,meaning that it's not associated with any bundles. If you still don't get it, take a llok at Google inbox <a href="https://support.google.com/inbox/answer/6050237?p=labels_web&hl=en&rd=1" target="_blank">Help</a>
+Traditional email inbox is kind of static nature. An email comes in,it pops up on the inbox list. You replies the email and it creates mail-thread. I really love GMail auto categorization of emails, which Google introduces a while back. It groups email by categories and show in traditional timely manner.
+At Inbox, the inbox of Inbox (nested inboxes..lol!) is dynamic in nature. The categories becomes nested. Inbox orders email by timeline and followed by auto-bundled categories,which is also ordered by time-line. The unbundled emails shows as individuals,meaning that it's not associated with any bundles. If you still don't get it, take a look at Google inbox <a href="https://support.google.com/inbox/answer/6050237?p=labels_web&hl=en&rd=1" target="_blank">Help</a>
 
 In my option, It's more easier to track the defined set of websites,rather than the dynamic one with a particular pattern no one wants to learn. It's a controversial issue and subjective.
 
 ### Email Composing
-The experience of composing a nice looking email at Inbox is quite terrible. Text box only contains basic formatting setting without any selection of fonts,font size and the most annoying thing is that there is no file browser for Google Drive. I work on Google Docs, Sheets for reporting and GMail works well with Drive integration. I would like to see the same setting for Inbox with comprehesive formatting settings.
+The experience of composing a nice looking email at Inbox is quite terrible. Text box only contains basic formatting setting without any selection of fonts,font size and the most annoying thing is that there is no file browser for Google Drive. I work on Google Docs, Sheets for reporting and GMail works well with Drive integration. I would like to see the same setting for Inbox with comprehensive formatting settings.
 
 ### Nothing good about Inbox?
 
@@ -31,8 +31,8 @@ After talking with things inbox let me down, I would like to list things Inbox i
 
 * Material Design.
 * Reminders and Snoozing. Sending yourself an email feels good.
-* Auto suggessting email addresses you usually commmunicate with.
-* Instead of zero inboxing,now you can just mark it as "Done"
+* Auto suggesting email addresses you usually communicate with.
+* Instead of zero inboxing, now you can just mark it as "Done"
 
 At the same time, I am thinking why Google doesn't integrate these features to GMail. But, googling about Inbox gives me some thoughts on it and also why Google splits up GMail and Inbox.
 

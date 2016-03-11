@@ -9,9 +9,9 @@ tags: Linux DNA Sequencing
 category: Tech
 ---
 
-In case you don't know about bio-linux,it's a linux distro based on Ubuntu with around 250 of <a href="http://environmentalomics.org/bio-linux-software-list/" target="_blank">bioinformatics packages</a> included. You can download iso file to install or also able to get software packages through ppa.
+In case you don't know about bio-linux,it's a Linux distro based on Ubuntu with around 250 of <a href="http://environmentalomics.org/bio-linux-software-list/" target="_blank"> bioinformatics packages</a> included. You can download iso file to install or also able to get software packages through ppa.
 
-The small problem is that the <a href="http://nebc.nerc.ac.uk/nebc_website_frozen/nebc.nerc.ac.uk//tools/bio-linux-7/other-bl-docs/package-repository" target="_blank">guideline</a> to install packages for pre-existing is outdated (only for ubuntu 12.04 lts). 
+The small problem is that the <a href="http://nebc.nerc.ac.uk/nebc_website_frozen/nebc.nerc.ac.uk//tools/bio-linux-7/other-bl-docs/package-repository" target="_blank">guideline</a> to install packages for pre-existing is outdated (only for Ubuntu 12.04 LTS). 
 
 After checking the ppa channel at launchpad, I found out you can install to your trusty system with slight changes as the following:
 

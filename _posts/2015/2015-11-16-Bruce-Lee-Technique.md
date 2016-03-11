@@ -8,7 +8,7 @@ tags: System Personal
 category: Notes
 ---
 
-Everyone knows Bruce Lee. He is a martial arts master, a movie star,and a student of Yip-man and more. As for an ordinary Asian dude, I wanna be like Bruce Lee when I was young. I wanna be a badass like him. Nothing more than that...
+Everyone knows Bruce Lee. He is a martial arts master, a movie star,and a student of Yip-man and more. As for an ordinary Asian dude, I wanna be like Bruce Lee when I was young. I wanna be a bad-ass like him. Nothing more than that...
 
 But after reading a brief biography about him, it seems that he is more than what I know when I was young. He studies philosophy and even writes poetry. The following quotes are some extracts of his belief and thoughts on life, learning and working.
 
@@ -21,7 +21,7 @@ As for a coder and technical guy, I take it into ways that I can familiar with. 
 
 There are two types of coder; ones who plan, code, run and debug it after a milestone and ones who debug and test at small snippets. I am second type of coders who code,test and repeat the process. In this way, I believe "losing your mind in a pile of bugs" is reduced to a certain extent. 
 
-Another aspect of categorizing technician and coder is by working and learning behaviour; "specialist or generalist?". A specialist knows few things into a deep level of understanding. A generalist can capable of working with various technology and platform but knowledge on these subjects are limited. The first type of person is who knows a single powerful kick and the second type of guy is more like a person who can kick 10,000 different ways. In IT world, it's a controversial issue to judge whether one is better than another. Due to dynamic nature of the field, technology is evolving and a specialist needs to catch up and have to learn new things. As for generalists, it is still important to understand matter to a practical level. Knowing little is harmful than knowing nothing.
+Another aspect of categorizing technician and coder is by working and learning behavior; "specialist or generalist?". A specialist knows few things into a deep level of understanding. A generalist can capable of working with various technology and platform but knowledge on these subjects are limited. The first type of person is who knows a single powerful kick and the second type of guy is more like a person who can kick 10,000 different ways. In IT world, it's a controversial issue to judge whether one is better than another. Due to dynamic nature of the field, technology is evolving and a specialist needs to catch up and have to learn new things. As for generalists, it is still important to understand matter to a practical level. Knowing little is harmful than knowing nothing.
 
 ### Blow punches or Kicks
 
@@ -29,7 +29,7 @@ Another aspect of categorizing technician and coder is by working and learning b
 > Punch when you have to punch. \\
 > Kick when you have to kick.
 
-This is also a nice practical thought on how to plan and get things done. Research & evaluation is 2 important procedure to consider when you are initiaing for a new project. There are many things to evaluate such as "which programming language to work with?", "what kind of development methodology to exercise?", "Tools, Frameworks and necessary technology for the project?" and so on. It is important to research and evaluate to get things done productively. Everyone wants an axe to cut a tree rather than a knife, but it's infeasible to cut an apple with axe.
+This is also a nice practical thought on how to plan and get things done. Research & evaluation is 2 important procedure to consider when you are initiating for a new project. There are many things to evaluate such as "which programming language to work with?", "what kind of development methodology to exercise?", "Tools, Frameworks and necessary technology for the project?" and so on. It is important to research and evaluate to get things done productively. Everyone wants an axe to cut a tree rather than a knife, but it's infeasible to cut an apple with axe.
 
 ### Lost in a forest of thoughts
 > If you spend too much time thinking about a thing, \\

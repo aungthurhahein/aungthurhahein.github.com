@@ -12,9 +12,9 @@ category: Tech
 ### TL;DR
 >This is ad hoc review and propaganda about incompatibility issue between Unicode fonts and non-Unicode fonts of **Myanmar** language. Instead of creating “quick fixes” to make these fonts compatible for short-term periods, this article is trying to propose methods to solve this problem for long-term benefits.
 
-### Artifical Language vs Natural Language
+### Artificial Language vs Natural Language
 
-For computer systems and digital communication medium, there are 2 types of language. Artifical language is to implement and to create communication between human to machines. Natural language is the medium for human to human communication. The size and structure of artificial language and formal language are limited. For natural and constructed language, the complexity of syntax, rules, and structure is complex and it is out of the structure and pattern at some parts. To standardize and meet consistency at digital communication, it is necessary to set up a standard for natural language.
+For computer systems and digital communication medium, there are 2 types of language. Artificial language is to implement and to create communication between human to machines. Natural language is the medium for human to human communication. The size and structure of artificial language and formal language are limited. For natural and constructed language, the complexity of syntax, rules, and structure is complex and it is out of the structure and pattern at some parts. To standardize and meet consistency at digital communication, it is necessary to set up a standard for natural language.
 
 To solve this solution, there are characters encoding and decoding standards to blend in natural languages nicely with artificial ones. Unicode is the standard you can find in modern operating systems and ASCII is another system that uses legacy operating systems such as Windows 95 and 98. For more about character encoding history, you can look at <a href="https://www.wikiwand.com/en/Character_encoding" page="_blank">Character encoding-wiki</a>.
 
