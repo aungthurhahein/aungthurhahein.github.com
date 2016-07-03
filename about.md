@@ -6,12 +6,12 @@ permalink: /about/
 
 ### Quick Bio
 
-* Hi... My name is Aung, a Burmese coder; Learning & working in BKK,TH.
+* Hi... My name is Aung, a Burmese national with curious mind.
+* InfoSec and Digital Forensic Researcher and working as Security Engineer at BKK,TH  
 * Ex-CFML & .Net developer, hooking up with Python currently. 
 * Some C/C++.
 * A solid logical mind, <a href="http://www.16personalities.com/istj-personality" target="_blank">ISTJ</a>. 
 * Stick to plan & process. Love facts & information.
-* Have XP with Web Development, Digital Forensic and Bioinformatics.
 * Believe in Minimalism and trying to declutter life and things around me.
 
 ### Contact

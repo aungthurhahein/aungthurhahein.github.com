@@ -8,7 +8,7 @@ permalink: /now/
 
 * Writing a journal paper titled "Forensic Analysis: Private Browsing mode of Google Chrome".
 * Reading [Fundamental of Information Systems Security](http://www.jblearning.com/catalog/9781284031621/)
-* Taking [Computer Hacking Forensic Analysis](https://www.cybrary.it/course/computer-hacking-forensics-analyst/) course.
+* Settling on a new position as Security Engineer 
 * E-Reading <a href="http://smarterthanyouthink.net/book/">*Smarter Than You Think*</a>.
 * Learning C to become a better coder with <a href="https://www.goodreads.com/book/show/515601.The_C_Programming_Language">The C Programming Language<a/>.     
 * Digging Linux Kernel with [Understanding Linux Kernel](http://www.amazon.com/Understanding-Linux-Kernel-Third-Edition/dp/0596005652)
