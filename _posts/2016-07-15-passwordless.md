@@ -11,11 +11,11 @@ date: 2016-07-15
 tags: Authentication 2FA 
 ---
 
-# FIDO and Password-less World
+# FIDO and Passwordless World
 
 <img src="http://core0.staticworld.net/images/article/2014/10/fido_alliance_u2f_usb_authentication_oct_2014-100526155-primary.idge.jpg">
 
-## Hey!! What's wrong with passwords?
+## What's wrong with passwords?
 
 Every one might agrees that passwords are difficult. They can be forgotten. They are easy to be revealed by phishing, key-logging and other social engineering attacks. Strong passwords need to have many factors and complex combination to avoid brute-force attacks and dictionary attacks and the main problem is people tends to use easy to get personal information as passwords instead of high complexity passwords that take years of enumeration time to decrypt it.
 
