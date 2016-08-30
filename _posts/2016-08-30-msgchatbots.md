@@ -8,7 +8,6 @@ backgrounds:
 categories: Tech
 tags: Bot Social
 ---
-https://chatbottle.co/?ref=producthunt
 
 Facebook integrates chatbot feature to its messenger platform and all AI chatbot enthusiasts are rolling out their cool ideas into the platform. This is a few chatbots that I personally like and use it at this moment:
 
