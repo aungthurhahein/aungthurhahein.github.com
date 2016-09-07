@@ -10,7 +10,7 @@ permalink: /about/
 * InfoSec and Digital Forensic Researcher and working as Security Engineer at BKK,TH  
 * Ex-CFML & .Net developer, hooking up with Python currently. 
 * Some C/C++.
-* A solid logical mind, <a href="http://www.16personalities.com/istj-personality" target="_blank">ISTJ</a>. 
+* A solid logical mind, [ISTJ](http://www.16personalities.com/istj-personality).
 * Stick to plan & process. Love facts & information.
 * Believe in Minimalism and trying to declutter life and things around me.
 
