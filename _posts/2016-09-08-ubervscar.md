@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Uber vs owning a car at BKK
-date: 2016-01-23
+title: Uber vs owning a car
+date: 2016-09-08
 thumb: http://www.citylifemadrid.com/wp-content/uploads/uber.jpg
 backgrounds: 
     - http://www.businessofapps.com/wp-content/uploads/2015/09/video.yahoofinance.com@40d2db72-2976-37c8-b12d-b4858de5bb20_FULL.jpg
@@ -17,7 +17,6 @@ I am an expat living in Bangkok and rely on public transportation to avoid high 
 * Refusing to go to some high-traffic destination.
 * Comfort.
 * Safety.
-* ...
 
 I ran into 2 blog entries that highlights some aspects about owning a car vs Uber or Lyft and decided to added some personal opinions. You can read the following entries to get some expert perspective and result of the research.
 
