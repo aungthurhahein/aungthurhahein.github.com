@@ -35,4 +35,3 @@ Of course! there are several advantages of owning a car. You don't need to wait.
 Apart from the cost efficiency point of view, it is more of personal preference and people who like to drive continues driving with the known trade-offs of driving. The previously mentioned buzzfeed [blog](https://t.co/Ob1XclTPxD) said "owning a car will become a thing of the past." but it's a difficult thing to say now. I don't like to drive but most of my friends like to drive. Owning a car means a social status among the community and current generation's teenagers and young adults still love to drive. 
 
 Until the tax, energy and price tag of a car is affordable, driving craze will continue driving and people like me will keep using car services. As simple as that...
-

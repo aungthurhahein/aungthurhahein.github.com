@@ -17,7 +17,7 @@ permalink: /about/
 ### Contact
 * If you are interested to make a digital conversation with me, don’t hesitate to contact me via *aungthurhahein[at]aol[dot]com*.
 
-* My one page résumé can be found *<a href="https://drive.google.com/file/d/0B-5hWRvjB-AYb1l1OTgwTG1aWkU/view?usp=sharing" target="_blank">here</a>*. 
+* My one page résumé can be found [here](https://drive.google.com/open?id=0B-5hWRvjB-AYRWRkR2xNTE1FUmM). 
 
 ### WWW
 * You can find me @<a href="https://twitter.com/AtrHein" target="_blank">Twitter</a> and also participate @<a href="https://www.quora.com/profile/Aung-Thu-Rha-Hein" target="_blank">Quora</a> World. 
