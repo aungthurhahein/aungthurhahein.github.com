@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Essential Research tools
 date: 2016-09-14
 thumb: https://higherlogicdownload.s3.amazonaws.com/NSACCT/7e1b22bb-4736-47f7-a45d-41ce8d27e073/UploadedImages/bigstock-set-of-tools-in-tool-box-on-a--51238249.jpg
