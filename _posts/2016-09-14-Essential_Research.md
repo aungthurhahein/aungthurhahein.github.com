@@ -2,10 +2,10 @@
 layout: post
 title: Essential Research tools
 date: 2016-09-14
-thumb: https://higherlogicdownload.s3.amazonaws.com/NSACCT/7e1b22bb-4736-47f7-a45d-41ce8d27e073/UploadedImages/bigstock-set-of-tools-in-tool-box-on-a--51238249.jpg
+thumb: http://writtent.com/blog/wp-content/uploads/2013/06/keyword-research-tools.jpg
 backgrounds: 
-    - http://blog.idonethis.com/wp-content/uploads/2015/07/construction-work-carpenter-tools.jpg
-    - http://edge.alluremedia.com.au/m/g/2015/01/shutterstock_246695119_1080.jpg
+    - http://blog.idonethis.com/wp-content/uploads/2015/07/construction-work-carpenter-tools.jpg    
+    - https://higherlogicdownload.s3.amazonaws.com/NSACCT/7e1b22bb-4736-47f7-a45d-41ce8d27e073/UploadedImages/bigstock-set-of-tools-in-tool-box-on-a--51238249.jpg
 tags: Tools Writing
 category: Research
 ---
