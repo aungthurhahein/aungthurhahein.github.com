@@ -1,6 +1,6 @@
 ---
 title: Essential Research tools
-date: 2016-05-12
+date: 2016-09-14
 thumb: https://higherlogicdownload.s3.amazonaws.com/NSACCT/7e1b22bb-4736-47f7-a45d-41ce8d27e073/UploadedImages/bigstock-set-of-tools-in-tool-box-on-a--51238249.jpg
 backgrounds: 
     - http://blog.idonethis.com/wp-content/uploads/2015/07/construction-work-carpenter-tools.jpg
@@ -57,15 +57,34 @@ There are also many tools you might need that depend on your project. The follow
 
 ### Note-taking and drafting
 
-I prefer clean minimal note taking app like [moo.do](https://www.moo.do/). Evernote is also a popular note taking app. If you wants a bit of formatting, try any markdown editor like [stackedit](https://stackedit.io/editor).
+I prefer clean minimal note taking app like [moo.do](https://www.moo.do/). Evernote is also a popular note taking app. If you wants a bit of formatting, try any markdown editor like [stackedit](https://stackedit.io/editor). 
+
+### Online Reading
+
+I like to highlight and read page directly at the page like similar reading experience from [medium](https://medium.com). There are several browser add-ons to achieve that and my favorite ones are [Highly](http://highly.co/) and [Markticle](https://markticle.com/).  [Grammarly](http://grammarly.com/) browser addons do several functions including highlight-dictionary that is very useful while reading.
 
 ### Bookmarking
-[Pocket](https://getpocket.com) is my personal favorite for one-clicking saving
+
+There are many searching and saving resources throughout the research process.
+
+* [Pocket](https://getpocket.com) is my personal favorite for one-clicking saving from your favourite browser with tags support.
+
+* [Pearltrees](http://www.pearltrees.com/) provides organizing and collaborating by category of your preferences.
+
+* [Saved](http://saved.io/) uses a different apporach compared with other link management services by typing saved.io/ in front of URL to save the page.
+
+* [Raindrop](https://raindrop.io/) is for people who like to curate just a photo,video and content like [Pinterest](https://www.pinterest.com) style. 
+
 ### Productivity
 
-### Statistics
+Productivity is something many people chasing for but only some get it to a certain level. Distraction is the main thing that slow down your productivity followed by interruption, laziness and lack of self-motivation and other emotional distress. Time tracking is one thing that most people do with scheduling and planning in many different methods and techniques. [Pomodoro](http://pomodorotechnique.com/) is the popular technique to focus on what you are doing and tracking the time with a short and long period break. 
 
-### Diagramming
+Procrastinating needs to beat with scheduling and planning with to-do list and scrum method. There is one product that stand out by blending Pomodoro technique and To-Do list called [Pomotodo](https://pomotodo.com/app) and it works pretty well for me. [Trello](https://trello.com/) becomes a standard tool for scrum task and tracking the progress. As for serious time tracking, tools like [Rescuetime](https://www.rescuetime.com/) works nicely with reporting on how much time you spend on which apps. [Toggl](https://www.toggl.com) is also a great time tracking platform but it's not available for free.
+
+I hope I help you on your search of tools and tips to improve your research process and I left off some topics like diagramming and statistics tools to limit the length of this blog. Have a good day and fight for science!
+
+
+
 
 
 
