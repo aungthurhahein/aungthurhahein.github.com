@@ -10,7 +10,7 @@ tags: Tools Writing
 category: Research
 ---
 
-## Aim
+## Intro & Aim
 
 This is a gist of tools and softwares that helps for the academic researchers to improve their productivity and organization. The tools are based on personal experience and inputs from the colleagues. Due to my Computer Science background, I like to explore software tools that can automate and make things easier without complication. I categorize the tools by similar product categories with brief explanation of what this tool can help you in the research process.
 
@@ -86,6 +86,7 @@ Productivity is something many people chasing for but only some get it to a cert
 
 Procrastinating needs to beat with scheduling and planning with to-do list and scrum method. There is one product that stand out by blending Pomodoro technique and To-Do list called [Pomotodo](https://pomotodo.com/app) and it works pretty well for me. [Trello](https://trello.com/) becomes a standard tool for scrum task and tracking the progress. As for serious time tracking, tools like [Rescuetime](https://www.rescuetime.com/) works nicely with reporting on how much time you spend on which apps. [Toggl](https://www.toggl.com) is also a great time tracking platform but it's not available for free.
 
+### Outro
 I hope I help you on your search of tools and tips to improve your research process and I left off some topics like diagramming and statistics tools to limit the length of this blog. Have a good day and fight for science!
 
 
