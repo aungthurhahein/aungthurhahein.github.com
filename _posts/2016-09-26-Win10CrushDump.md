@@ -15,5 +15,6 @@ I posted for an alternative solution from fellow DFIR practitioners and an inter
 
 Just fill a form to download the Comae Free Toolkits that includes 2 tools: *DumpIt* and *Hibr2Bin*. 
 I downloaded it and tested it by dumping the physical memory and it works smoothly.
+
 A very good news for DFIR community!
 
