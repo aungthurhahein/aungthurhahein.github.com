@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Growing old 
+date: 2016-10-04
 thumb: http://cdn1.listovative.com/wp-content/uploads/2014/09/f13.jpg
 backgrounds: 
     - https://hd.unsplash.com/photo-1452421822248-d4c2b47f0c81
