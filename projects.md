@@ -6,7 +6,8 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. 
 
-### [InfoSec Weekly Curation](https://medium.com/@atrhein) News about Information Security, recent attacks and methodology are posted at Medium blog weekly.
+### [InfoSec Weekly Curation](https://medium.com/@atrhein) 
+News about Information Security, recent attacks and methodology are posted at Medium blog weekly.
 
 ### [Scrap Miniature](https://github.com/aungthurhahein/scrap_miniature)
 Scrap and download daily images from [Miniature-calendar](http://miniature-calendar.com/)
