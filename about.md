@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Quick Bio
-
 * Hi... My name is Aung, a Burmese national with curious mind.
 * InfoSec and Digital Forensic Researcher and working as Security Engineer at BKK,TH  
 * Ex-CFML & .Net developer, hooking up with Python currently. 

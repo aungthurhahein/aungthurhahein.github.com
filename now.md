@@ -14,6 +14,6 @@ permalink: /now/
 * Playing arcade mode on[CodeFights](https://codefights.com/signup/p7SbPtK4qSbghZMmi/main)
 * Learning to cook more cuisines and meals 
 * Managing to declutter life and hunting down hacks for better productivity.
-* Pushing myself to run and exercise regularly.
+* Pushing myself to swim and exercise regularly.
 * Trying to maintain my houseplants and 2 bettas survive :D.
 
