@@ -42,7 +42,7 @@ What kind of text editors/IDEs front-end develoeprs prefer? 3 Things I think we 
 * Brackets: Abode text editor with integrated (Free)
 * LightTable: Text editors with inline evaluation and other cool features (Free)
 
-It's impossible to say which one is the best since it's more of personal perference. For me, I use ST3 manily and LightTable for some interactive coding with Python and Julia. 
+It's impossible to say which one is the best since it's more of personal preference. For me, I use ST3 manily and LightTable for some interactive coding with Python and Julia. 
 
 ### Version Control Systems
 There are 7 major [version control systems](https://www.smashingmagazine.com/2008/09/the-top-7-open-source-version-control-systems/).Git,Mercurial and SVN is the most popular systems and Git might be the major systems most orgranization and develoepers exercise. It is essential to familiar with **Git** and Git software platforms such as **Github** or **Bitbucket**.
