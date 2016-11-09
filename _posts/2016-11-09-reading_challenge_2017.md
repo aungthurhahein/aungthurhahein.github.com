@@ -11,10 +11,10 @@ categories: Personal
 tags: Reading
 --- 
 
-[2017 reading challenge](https://dl.dropboxusercontent.com/u/51247918/2017reading.PNG)
+![2017 reading challenge](https://dl.dropboxusercontent.com/u/51247918/2017reading.PNG)
 
-I make a list of selected books I want to read since 2015 and try to stick with it. It is good for me to boost my reading volume and focus on the books among the sea of books. 
-I handpicked books of my favoritism genres: humor, tech, non-fiction and some books to improve my skills and knowledge (InfoSec, Business Development & IT in general.). So far, I selected 17 books to read within 2017. A [e-shelf](https://www.goodreads.com/review/list/8560049-aung?print=true&shelf=2017) is created at Goodreads too if you want to check details of any particular book. 
+I make a list of selected books I want to read since 2015 and try to stick with it. It is good for me to boost my reading volume and focus on the selected books among ton of books. 
+I handpicked books of my favorite genres: humor, tech, non-fiction and some books to improve my skills and knowledge (InfoSec, Business Development & IT in general.). So far, I selected 17 books to read within 2017. The [E-Shelf](https://www.goodreads.com/review/list/8560049-aung?print=true&shelf=2017) is created at Goodreads too if you want to check details of any particular book. 
 
 ### Business 
     
