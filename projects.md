@@ -23,7 +23,7 @@ A project to gather the best packages for Sublime Text 3 and Atom text editors f
 
 This is a Google font pairing typography project using Burmese poems as content.
 
-### <a href="http://nay-phyo.com" target="_blank">Nay-Phyo</a>
+### <a href="http://aungthurhahein.github.io/wedding_invitation-" target="_blank">Nay-Phyo</a>
 A single page parallax e-invitation site made as a present for my friends' wedding.
 
 ### <a href="http://aungthurhahein.github.io/coderplaylist/" target="_blank">CoderPlaylist</a>
