@@ -10,7 +10,7 @@ tags: Malware
 --- 
 
 ## AV is not enough protection for the new era of cyber attack paradigm 
-Recently, I've been using more than AV for my work PC to tighten the security. The landscape of the attackers is expanding to more scary things like ransomware attacks and I think it is important for everyone to understand what is [ransomware](https://www.nomoreransom.org/ransomware-qa.html). [ESET Ransomware explained](https://www.youtube.com/watch?v=FV-HW3NYdF8) is also a short nice video of what ransomware capable of. AV can't detect and prevent them. The attackers are more clever than ever to construct a payload that can exploit the system without the knowledge of AVs. Behavioral monitoring is necessary to detect these next generation attacks. There is ton of security practices for end-users to avoid these exploits from getting inside the system. Check [NoMoreRansom] projects for preventive measures. To get latest news and ransomware information, [Ransomwares](http://ransomwares.net/) is a great source. [Sophos Anti-Ransomware kit](https://www.sophos.com/en-us/lp/ransomware.aspx) contains impressive resource to learn about ransomwares.
+Recently, I've been using more than AV for my work PC to tighten the security. The landscape of the attackers is expanding to more scary things like ransomware attacks and I think it is important for everyone to understand what is [ransomware](https://www.nomoreransom.org/ransomware-qa.html). [ESET Ransomware Explained(vid)](https://www.youtube.com/watch?v=FV-HW3NYdF8) is also a short nice video of what ransomware capable of. AV can't detect and prevent them. The attackers are more clever than ever to construct a payload that can exploit the system without the knowledge of AVs. Behavioral monitoring is necessary to detect these next generation attacks. There is ton of security practices for end-users to avoid these exploits from getting inside the system. Check [NoMoreRansom](https://www.nomoreransom.org/prevention-advice.html) project for preventive measures. To get latest news and ransomware information, [Ransomwares](http://ransomwares.net/) is a great source. [Sophos Anti-Ransomware kit](https://www.sophos.com/en-us/lp/ransomware.aspx) contains impressive resource to learn about ransomwares.
 
 ## Preventive Measures
 This is the list of security tools that we can use to prevent the rasomware and exploits. 
@@ -27,7 +27,7 @@ Yes. Turn on default Windows Firewall. It's a must. What we can do more is by us
 There are several solutions that detects prevents malwares and ransomware attacks. These tools monitor and detect the behaviors of ransomwares continuously and remediate the exploits. Some popular vendors are Sophos, Bitdefender, Kapersky, Trend Micro, Malwarebytes, Sophos, Carbonblack, and so on. Do the research for the best product that can prevent evolved and sophisticated ransomwares before selecting it.
 
 ## Post-Ransomware
-Ok! we failed to protect ourselves. Before paying to the devil attackers, these are the process we can try to decrypt/recover ransomware. 
+Ok! we fail to protect ourselves. Before paying to the devil attackers, these are the process we can try to decrypt/recover ransomware. 
 
 ### Ransomware Decryptors
 For some common rasomware variants, you can check decryptors tool at [Ransomwares](http://ransomwares.net/decryptor-tools/). [NoMoreRasomware](https://www.nomoreransom.org/decryption-tools.html) also have a collection of decryptors from R&D team of several security vendors.
