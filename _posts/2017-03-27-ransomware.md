@@ -2,7 +2,7 @@
 layout: post
 title: Ransomware preventive measures
 date: 2017-03-27
-thumb: https://cdn2.hubspot.net/hubfs/486579/lp/academy/ransomware.png?t=1490300941167
+thumb: https://techtalk.gfi.com/wp-content/uploads/2014/08/Protect-From-Ransomware.jpg
 backgrounds: 
     - https://images.unsplash.com/photo-1481624362406-b7817fa45ecf?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb
 categories: Security    
