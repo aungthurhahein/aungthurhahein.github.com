@@ -6,6 +6,9 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. 
 
+### [Wedding Porfolio for friends](https://pxi-thantthiri.life)
+A single page website page for friends' wedding
+
 ### [InfoSec Weekly Curation](https://medium.com/@atrhein) 
 News about Information Security, recent attacks and methodology are posted at Medium blog weekly.
 
@@ -14,6 +17,7 @@ Scrap and download daily images from [Miniature-calendar](http://miniature-calen
 
 ### [Porfolio/Splash page](http://aungthurhahein.github.io/me/)
 A minimal personal splash page with pagepiling.js.
+
 
 ### <a href="http://st3-atom.github.io/" target="_blank">ST3&Atom</a>
 

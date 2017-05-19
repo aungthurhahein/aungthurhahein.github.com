@@ -1,5 +1,5 @@
 ---
-title: Ubuntu Porxy Setup
+title: Ubuntu Proxy Setup
 layout: post
 backgrounds:
    - http://www.tous-libre.fr/wp-content/uploads/2014/04/ubuntu14.04-wallpaper1.png  
