@@ -6,7 +6,7 @@ permalink: /projects/
 
 These are some mini-projects I've been working and contributing at spare time. 
 
-### [Wedding Porfolio for friends](https://pxi-thantthiri.life)
+### [Wedding Porfolio for friends](http://pxi-thantthiri.life)
 A single page website page for friends' wedding
 
 ### [InfoSec Weekly Curation](https://medium.com/@atrhein) 
