@@ -40,4 +40,4 @@ OWASP AppSec Pipeline adopts the principles of DevOps into application security 
 
 ## Outro
 
-This is a just a fragment of thoughts on DevSecOps on some common questions that I am having. Continuous learning is a key for developing skills and knowledge that everyone in the DevSecOps team can practice to build a world class software development program. [OWASP DevSecOps Studio](https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project) is a good starting point for people who wants to dive in to 
+This is a just a fragment of thoughts on DevSecOps on some common questions that I am having. Continuous learning is a key for developing skills and knowledge that everyone in the DevSecOps team can practice to build a world class software development program. [OWASP DevSecOps Studio](https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project) is a good starting point for people who wants to dive in to learn DevSecOps concepts right away.
