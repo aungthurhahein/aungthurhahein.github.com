@@ -11,17 +11,17 @@ tags: Security Development
 
 ## Background
 
-It is important to know about "DevOps" culture before starting to understand "DevSecOps". The reason behind this is that DevOps is a underlying building block of DevSecOps which brings the attribute of speed, precision and automation. The core principles of DevOps is to deliver software faster and more reliable by designing automated integration and delivery pipeline with collaboration of **Development** and **Operation** team. Even with reliable process and technology, people plays a critical part to adapt DevOps mindset and culture.
+It is important to know about "DevOps" culture before starting to understand "DevSecOps". The reason behind this is that DevOps is an underlying building block of DevSecOps which brings the attribute of speed, precision and automation. The core principles of DevOps is to deliver software faster and more reliable by designing automated integration and delivery pipeline with collaboration of **Development** and **Operation** team. Even with reliable process and technology, people plays a critical part to adopt DevOps mindset and culture.
 
-The need of **Security** in the DevOps pipeline itself and the developing software brings security aspect of software development and the term "DevSecOps" is born. The nature of Security is allergic reaction to Dev team and Ops team which makes it a big burden to interoperable in SDLC process. 
+The need for **Security** in the DevOps pipeline itself and the developing software brings security aspect of software development and the term **DevSecOps** is born. The nature of Security is allergic reaction to Dev team and Ops team which makes it a big burden to interoperable in SDLC process. 
 
 ## DevSecOps = Secure DevOps?
 
 The Short answer is Yes. 
 
-The idea of Developer centric approach is essential to implement DevSecOps program by adapting security tools/process focus on developers, not the conventional security testing process. Choose the tools that developers can work within their development environment. Choose the process that operation team can integrate with CI/CD chain and enjoy automating security testing. 
+The idea of Developer centric approach is essential to implement DevSecOps program by adopting security tools/process focus on developers, not the conventional security testing process. Choose the tools that developers can work within their development environment. Choose the process that operation team can integrate with CI/CD chain and enjoy automating security testing. 
 
-When we says **Left-Shift** testing approach, we are implying 2 objectives; testing as early as possible and mitigating vulnerabilities continuously throughout Development. By testing as early development stage, stubborn vulnerabilities are mitigated and the effort is less than fixing during testing phase or deployment phase. There might be some people thinking how about we fix it all at 1 point. 100% secure software is impossible and it is important to brings justification on security risk assessment and prioritization. Continuous Security Monitoring is required to compensate residual risks and zero vulnerabilities. 
+When we say **Left-Shift** testing approach, we are implying 2 objectives; testing as early as possible and mitigating vulnerabilities continuously throughout Development. By testing as early development stage, stubborn vulnerabilities are mitigated and the effort is less than fixing during testing phase or deployment phase. There might be some people thinking how about we fix it all at 1 point. 100% secure software is impossible and it is important to brings justification on security risk assessment and prioritization. Continuous Security Monitoring is required to compensate residual risks and zero vulnerabilities. 
 
 ## Who is Security Champion?
 
