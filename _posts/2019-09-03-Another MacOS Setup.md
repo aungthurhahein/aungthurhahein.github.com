@@ -24,6 +24,7 @@ There are some people having battery draining issue in macOS Mojave and it requi
 Follow this principle on charging MacBook: **“Charge when it below 20% while using it and unplug it at 95% and Repeat.”** The small menu app ”battery monitor” can give you notification.  
 
 ### What Accessories to get?
+
 * A hard cover and a fabric or leather bag (optional)
 * 2 adapters if you have 2 thunder ports (New MacBook Pro 2018 or MacBook Air 2018);
 	* A USB C to VGA/HDMI combo adapter
@@ -31,6 +32,7 @@ Follow this principle on charging MacBook: **“Charge when it below 20% while u
 * If you only have 1 thunder port 3, get a USB hub that has 4 USB 3 ports with HDMI plus USB C port for charging.  It seems crazy but you can find a cheap one at Alixpress. 
 
 ### Secure the OS
+
 If you are comfortable with terminal, use [GitHub - alichtman/stronghold: Easily configure macOS security settings from the terminal.](https://github.com/alichtman/stronghold)  to tune security configuration of your MacBook.  
 
 Another way is to  set up manually by doing these things:
@@ -42,6 +44,7 @@ Another way is to  set up manually by doing these things:
 Investing  a few bucks on reliable antivirus and malware remover is a good idea to prevent known and unknown attacks and ransomware.
 
 ### General Utility Tools
+
 The following utility tools are free and quite handy in general.  I believe that everyone will need it sooner or later.
 
 	* iTerm2
@@ -59,6 +62,7 @@ The following utility tools are free and quite handy in general.  I believe that
 	* Folx
 
 ### Office & Productivity Tools
+
 	* Microsoft Office 365 (Commercial)
 	* Bear (Markdown editor). I am using this app for writing blog and any markdown text.
 	* Sublime Text 3
@@ -68,15 +72,20 @@ The following utility tools are free and quite handy in general.  I believe that
 	* iBooks Author 
 
 ### Safari Extensions
+
 Safari is not my go-to browser but I decided to use instead of Chrome on my Macbook due to its battery efficiency. There are not a lot of Safari extensions to choose from but the following plugins improve privacy and UX of safari;
+
 	* Ghostery Lite
 	* LastPass or 1Pass
 	* Instapaper or Pocket
 	* Folx
+
 Chrome is a lot faster than Safari and it has intensive plugins. However, the resource consumption of Chrome is higher than Safari which leads to more battery drainage.
 
 ### Development & Information Security professionals
+
 These are just optional tools for Developers / InfoSec guys: 
+
 	* Wireshark
 	* Burp Suite
 	* Postman
