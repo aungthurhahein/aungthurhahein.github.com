@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another MacOS Setup
-date: 2018-09-03
+date: 2019-03-09
 thumb: https://www.desantisbreindel.com/wp-content/uploads/desantis-breindel-corporate-philanthropy-apple-1024x576.png
 backgrounds: 
     - https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
