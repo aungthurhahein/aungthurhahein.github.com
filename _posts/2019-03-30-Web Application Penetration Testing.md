@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Application Penetration Testing - Business Logic Test
-date: 2019-30-03
+date: 2019-03-30
 thumb: https://cdn.vox-cdn.com/thumbor/oQ4iz3pyOZkivTL8H1iBj0efmR0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/56805221/acastro_170629_1777_0008.0.jpg
 backgrounds: 
     - https://images.unsplash.com/photo-1551419762-4a3d998f6292?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80
