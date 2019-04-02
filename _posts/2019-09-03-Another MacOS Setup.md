@@ -27,8 +27,10 @@ Follow this principle on charging MacBook: **“Charge when it below 20% while u
 
 * A hard cover and a fabric or leather bag (optional)
 * 2 adapters if you have 2 thunder ports (New MacBook Pro 2018 or MacBook Air 2018);
+
 	* A USB C to VGA/HDMI combo adapter
 	* A USB C to 4 or 5 USB 3 ports
+
 * If you only have 1 thunder port 3, get a USB hub that has 4 USB 3 ports with HDMI plus USB C port for charging.  It seems crazy but you can find a cheap one at Alixpress. 
 
 ### Secure the OS
@@ -36,6 +38,7 @@ Follow this principle on charging MacBook: **“Charge when it below 20% while u
 If you are comfortable with terminal, use [GitHub - alichtman/stronghold: Easily configure macOS security settings from the terminal.](https://github.com/alichtman/stronghold)  to tune security configuration of your MacBook.  
 
 Another way is to  set up manually by doing these things:
+
 	* Turn on Firewall
 	* Turn FileVault on 
 	* Install reliable Antivirus software
