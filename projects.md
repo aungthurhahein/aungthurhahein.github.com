@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-These are some mini-projects I've been working and contributing at spare time. 
+These are some non-security projects I've been working and contributing at spare time. 
 
 ### [Wedding Porfolio for friends](http://pxi-thantthiri.life)
 A single page website page for friends' wedding
